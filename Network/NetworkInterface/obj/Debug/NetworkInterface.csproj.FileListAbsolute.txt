@@ -1,0 +1,14 @@
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\Network\NetworkInterface\bin\Debug\NetworkInterface.dll
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\Network\NetworkInterface\bin\Debug\NetworkInterface.pdb
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\Network\NetworkInterface\obj\Debug\NetworkInterface.csprojResolveAssemblyReference.cache
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\Network\NetworkInterface\obj\Debug\NetworkInterface.dll
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\Network\NetworkInterface\obj\Debug\NetworkInterface.pdb
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\CalculateString\Network\NetworkInterface\bin\Debug\NetworkInterface.dll
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\CalculateString\Network\NetworkInterface\bin\Debug\NetworkInterface.pdb
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\CalculateString\Network\NetworkInterface\obj\Debug\NetworkInterface.csprojResolveAssemblyReference.cache
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\CalculateString\Network\NetworkInterface\obj\Debug\NetworkInterface.dll
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\CalculateString\Network\NetworkInterface\obj\Debug\NetworkInterface.pdb
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\NetworkInterface\bin\Debug\NetworkInterface.dll
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\NetworkInterface\bin\Debug\NetworkInterface.pdb
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\NetworkInterface\obj\Debug\NetworkInterface.dll
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\NetworkInterface\obj\Debug\NetworkInterface.pdb

@@ -1,0 +1,10 @@
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\CalculateString\Crypto\CryptoInterface\bin\Debug\CryptoInterface.dll
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\CalculateString\Crypto\CryptoInterface\bin\Debug\CryptoInterface.pdb
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\CalculateString\Crypto\CryptoInterface\obj\Debug\CryptoInterface.csprojResolveAssemblyReference.cache
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\CalculateString\Crypto\CryptoInterface\obj\Debug\CryptoInterface.dll
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\CalculateString\Crypto\CryptoInterface\obj\Debug\CryptoInterface.pdb
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\CryptoInterface\bin\Debug\CryptoInterface.dll
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\CryptoInterface\bin\Debug\CryptoInterface.pdb
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\CryptoInterface\obj\Debug\CryptoInterface.csprojResolveAssemblyReference.cache
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\CryptoInterface\obj\Debug\CryptoInterface.dll
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\CryptoInterface\obj\Debug\CryptoInterface.pdb

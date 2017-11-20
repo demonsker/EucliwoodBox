@@ -1,0 +1,4 @@
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\CalculateInterface\bin\Debug\CalculateInterface.dll
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\CalculateInterface\bin\Debug\CalculateInterface.pdb
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\CalculateInterface\obj\Debug\CalculateInterface.dll
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\CalculateInterface\obj\Debug\CalculateInterface.pdb

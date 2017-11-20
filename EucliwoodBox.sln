@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{C87F4F9E-665F-4A82-A6FD-5C9DC098CCA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network", "Network\Network\Network.csproj", "{78597B3F-60CD-4D62-B4CB-22D65FFA49B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto", "Crypto\Crypto\Crypto.csproj", "{D2835612-A5F0-4BF7-8C35-5AA1CC35E887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EucliwoodBox", "EucliwoodBox\EucliwoodBox.csproj", "{65268B8F-AB3F-4DB0-B4A1-664EC0EE9DF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate", "Calculate\Calculate\Calculate.csproj", "{367388DC-FD24-47DB-A4B4-675C8EF7DC47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C87F4F9E-665F-4A82-A6FD-5C9DC098CCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87F4F9E-665F-4A82-A6FD-5C9DC098CCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87F4F9E-665F-4A82-A6FD-5C9DC098CCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87F4F9E-665F-4A82-A6FD-5C9DC098CCA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78597B3F-60CD-4D62-B4CB-22D65FFA49B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78597B3F-60CD-4D62-B4CB-22D65FFA49B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78597B3F-60CD-4D62-B4CB-22D65FFA49B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78597B3F-60CD-4D62-B4CB-22D65FFA49B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2835612-A5F0-4BF7-8C35-5AA1CC35E887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2835612-A5F0-4BF7-8C35-5AA1CC35E887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2835612-A5F0-4BF7-8C35-5AA1CC35E887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2835612-A5F0-4BF7-8C35-5AA1CC35E887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65268B8F-AB3F-4DB0-B4A1-664EC0EE9DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65268B8F-AB3F-4DB0-B4A1-664EC0EE9DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65268B8F-AB3F-4DB0-B4A1-664EC0EE9DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65268B8F-AB3F-4DB0-B4A1-664EC0EE9DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367388DC-FD24-47DB-A4B4-675C8EF7DC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367388DC-FD24-47DB-A4B4-675C8EF7DC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367388DC-FD24-47DB-A4B4-675C8EF7DC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367388DC-FD24-47DB-A4B4-675C8EF7DC47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
