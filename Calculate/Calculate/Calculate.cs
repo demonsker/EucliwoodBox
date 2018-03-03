@@ -34,6 +34,7 @@ namespace Calculate
 		}
 		void collectobj(){
 			list.Add(stringcal1);
+			list.Add(stringoperator1);
 		}
 		void menuselect(object obj){
 			hideallmenu();
@@ -52,6 +53,10 @@ namespace Calculate
 		void StringcalbuttonClick(object sender, EventArgs e)
 		{
 			menuselect(stringcal1);
+		}
+		void StringoperatorbuttonClick(object sender, EventArgs e)
+		{
+			menuselect(stringoperator1);
 		}
 	}
 }

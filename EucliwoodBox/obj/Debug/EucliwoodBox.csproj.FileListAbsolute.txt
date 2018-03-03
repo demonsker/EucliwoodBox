@@ -58,3 +58,5 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\EucliwoodBox\obj
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\EucliwoodBox\obj\Debug\EucliwoodBox.csproj.GenerateResource.Cache
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\EucliwoodBox\obj\Debug\EucliwoodBox.exe
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\EucliwoodBox\obj\Debug\EucliwoodBox.pdb
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\EucliwoodBox\bin\Debug\stringoperation.dll
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\EucliwoodBox\bin\Debug\stringoperation.pdb

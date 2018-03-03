@@ -76,6 +76,10 @@
       <Project>{0695586a-a2aa-48af-9e6e-a367e56544e9}</Project>
       <Name>stringcal</Name>
     </ProjectReference>
+    <ProjectReference Include="..\stringoperation\stringoperation.csproj">
+      <Project>{85fe1193-df89-44ce-9e07-16e7f3266ff5}</Project>
+      <Name>stringoperation</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

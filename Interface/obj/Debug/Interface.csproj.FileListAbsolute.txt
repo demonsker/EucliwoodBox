@@ -5,6 +5,6 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\CalculateString\Interface\obj
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\CalculateString\Interface\obj\Debug\Interface.pdb
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Interface\bin\Debug\Interface.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Interface\bin\Debug\Interface.pdb
-C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Interface\obj\Debug\Interface.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Interface\obj\Debug\Interface.pdb
+C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
