@@ -81,7 +81,7 @@ namespace Calculate
 			this.stringoperator1.BackColor = System.Drawing.Color.DarkSeaGreen;
 			this.stringoperator1.Location = new System.Drawing.Point(15, 56);
 			this.stringoperator1.Name = "stringoperator1";
-			this.stringoperator1.Size = new System.Drawing.Size(710, 389);
+			this.stringoperator1.Size = new System.Drawing.Size(840, 581);
 			this.stringoperator1.TabIndex = 3;
 			// 
 			// Calculate
@@ -94,7 +94,7 @@ namespace Calculate
 			this.Controls.Add(this.stringcalbutton);
 			this.Controls.Add(this.stringcal1);
 			this.Name = "Calculate";
-			this.Size = new System.Drawing.Size(822, 640);
+			this.Size = new System.Drawing.Size(858, 640);
 			this.ResumeLayout(false);
 
 		}
