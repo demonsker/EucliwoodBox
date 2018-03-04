@@ -11,6 +11,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
+using System.Text.RegularExpressions;
 
 namespace stringoperation
 {
@@ -25,7 +26,6 @@ namespace stringoperation
 			// The InitializeComponent() call is required for Windows Forms designer support.
 			//
 			InitializeComponent();
-			
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
@@ -34,11 +34,34 @@ namespace stringoperation
 		void setString(string message) { stringbox.Text = message; }
 		void setIndex(int index) { indexval.Text = index.ToString(); }
 		string getString(){ return stringbox.Text; }
-		string getOriginal(){ return originalbox.Text; }
-		string getNewText(){ return newtextbox.Text; }
-		string getAfterText(){ return aftertextbox.Text; }
-		string getInsertText(){ return insertbox.Text; }
+		
+		string getOriginal()
+		{						
+			if(newlineoriginalcheck.Checked)
+				return System.Environment.NewLine;
+			return originalbox.Text;
+		}
+		string getNewText()
+		{ 
+			if(newlinenewtextcheck.Checked)
+				return System.Environment.NewLine;
+			return newtextbox.Text;
+		}
+		string getAfterText()
+		{
+			if(newlineoriginalcheck.Checked)
+				return System.Environment.NewLine;
+			return aftertextbox.Text;
+		}
+		string getInsertText()
+		{ 
+			if(newlinenewtextcheck.Checked)
+				return System.Environment.NewLine;	
+			return insertbox.Text;
+		}
 		string getSearchText(){ return searchbox.Text; }
+		
+		int getNumberCharNewLine(){ return Int32.Parse(numberofcharacternewline.Text);}
 		
 		void DelspacebuttonClick(object sender, EventArgs e)
 		{
@@ -122,6 +145,39 @@ namespace stringoperation
 			message = message.Replace('\n', ' ');
 			setString(message);
 		}
-		
+		void GetnumberbuttonClick(object sender, EventArgs e)
+		{
+			String message = getString();
+			Regex r = new Regex("(-)?[0-9]+(\\.[0-9]+)?");
+			MatchCollection mc = r.Matches(message);
+			message = "";
+			
+			for(int i = 0; i< mc.Count ; i++)
+			{
+				message += mc[i]+" ";
+			}
+			setString(message);
+		}
+		void AddnewlinebuttonClick(object sender, EventArgs e)
+		{
+			String message = getString();
+			int num = getNumberCharNewLine();
+			
+			for(int i = num; i < message.Length; i+=(num+2))
+				message = message.Insert(i, System.Environment.NewLine);
+			
+			setString(message);
+		}
+		void AddspacebuttonClick(object sender, EventArgs e)
+		{
+			String message = getString();
+			int num = getNumberCharNewLine();
+			
+			for(int i = num; i < message.Length; i+=(num+1))
+				message = message.Insert(i, " ");
+			
+			setString(message);
+		}
+			
 	}
 }
