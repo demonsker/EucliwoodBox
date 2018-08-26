@@ -12,3 +12,8 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\NetworkI
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\NetworkInterface\bin\Debug\NetworkInterface.pdb
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\NetworkInterface\obj\Debug\NetworkInterface.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\NetworkInterface\obj\Debug\NetworkInterface.pdb
+C:\Users\admin\Documents\EucliwoodBox\Network\NetworkInterface\bin\Debug\NetworkInterface.dll
+C:\Users\admin\Documents\EucliwoodBox\Network\NetworkInterface\bin\Debug\NetworkInterface.pdb
+C:\Users\admin\Documents\EucliwoodBox\Network\NetworkInterface\obj\Debug\NetworkInterface.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\Network\NetworkInterface\obj\Debug\NetworkInterface.dll
+C:\Users\admin\Documents\EucliwoodBox\Network\NetworkInterface\obj\Debug\NetworkInterface.pdb

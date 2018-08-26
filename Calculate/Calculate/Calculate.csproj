@@ -31,8 +31,26 @@
     <DefineConstants>TRACE</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CalculateInterface">
+      <HintPath>..\CalculateInterface\bin\Debug\CalculateInterface.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Interface">
+      <HintPath>..\..\Interface\bin\Debug\Interface.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Microsoft.CSharp">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="stringcal, Version=1.0.6637.955, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\stringcal\bin\Debug\stringcal.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="stringoperation, Version=1.0.6637.27253, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\stringoperation\bin\Debug\stringoperation.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
@@ -62,24 +80,6 @@
     <EmbeddedResource Include="Calculate.resx">
       <DependentUpon>Calculate.cs</DependentUpon>
     </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\Interface\Interface.csproj">
-      <Project>{c87f4f9e-665f-4a82-a6fd-5c9dc098cca3}</Project>
-      <Name>Interface</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\CalculateInterface\CalculateInterface.csproj">
-      <Project>{a4312e97-3b00-47a8-998a-95d517a16472}</Project>
-      <Name>CalculateInterface</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\stringcal\stringcal.csproj">
-      <Project>{0695586a-a2aa-48af-9e6e-a367e56544e9}</Project>
-      <Name>stringcal</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\stringoperation\stringoperation.csproj">
-      <Project>{85fe1193-df89-44ce-9e07-16e7f3266ff5}</Project>
-      <Name>stringoperation</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

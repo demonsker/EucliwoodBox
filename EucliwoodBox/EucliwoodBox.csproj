@@ -48,42 +48,50 @@
   <ItemGroup>
     <Reference Include="Calculate">
       <HintPath>..\Calculate\Calculate\bin\Debug\Calculate.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="CalculateInterface">
-      <HintPath>..\Calculate\Calculate\bin\Debug\CalculateInterface.dll</HintPath>
+      <HintPath>..\Calculate\CalculateInterface\bin\Debug\CalculateInterface.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Crypto">
       <HintPath>..\Crypto\Crypto\bin\Debug\Crypto.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="CryptoInterface">
-      <HintPath>..\Crypto\Crypto\bin\Debug\CryptoInterface.dll</HintPath>
+      <HintPath>..\Crypto\CryptoInterface\bin\Debug\CryptoInterface.dll</HintPath>
     </Reference>
     <Reference Include="MD5">
-      <HintPath>..\Crypto\Crypto\bin\Debug\MD5.dll</HintPath>
+      <HintPath>..\Crypto\MD5\bin\Debug\MD5.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
     <Reference Include="Network">
       <HintPath>..\Network\Network\bin\Debug\Network.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="NetworkInterface">
-      <HintPath>..\Network\Network\bin\Debug\NetworkInterface.dll</HintPath>
+      <HintPath>..\Network\NetworkInterface\bin\Debug\NetworkInterface.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Portcheck">
-      <HintPath>..\Network\Network\bin\Debug\Portcheck.dll</HintPath>
+      <HintPath>..\Network\Portcheck\bin\Debug\Portcheck.dll</HintPath>
     </Reference>
     <Reference Include="PSEX">
-      <HintPath>..\Network\Network\bin\Debug\PSEX.dll</HintPath>
+      <HintPath>..\Network\PSEX\bin\Debug\PSEX.dll</HintPath>
     </Reference>
     <Reference Include="Rsa">
-      <HintPath>..\Crypto\Crypto\bin\Debug\Rsa.dll</HintPath>
+      <HintPath>..\Crypto\Rsa\bin\Debug\Rsa.dll</HintPath>
     </Reference>
     <Reference Include="Sha">
-      <HintPath>..\Crypto\Crypto\bin\Debug\Sha.dll</HintPath>
+      <HintPath>..\Crypto\Sha\bin\Debug\Sha.dll</HintPath>
     </Reference>
     <Reference Include="stringcal">
-      <HintPath>..\Calculate\Calculate\bin\Debug\stringcal.dll</HintPath>
+      <HintPath>..\Calculate\stringcal\bin\Debug\stringcal.dll</HintPath>
+    </Reference>
+    <Reference Include="stringoperation">
+      <HintPath>..\Calculate\stringoperation\bin\Debug\stringoperation.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
@@ -122,6 +130,7 @@
     <ProjectReference Include="..\Interface\Interface.csproj">
       <Project>{c87f4f9e-665f-4a82-a6fd-5c9dc098cca3}</Project>
       <Name>Interface</Name>
+      <Private>True</Private>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

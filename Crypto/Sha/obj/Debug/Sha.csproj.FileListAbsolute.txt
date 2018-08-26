@@ -16,3 +16,11 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\Sha\obj\D
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\Sha\obj\Debug\Sha.csproj.GenerateResource.Cache
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\Sha\obj\Debug\Sha.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\Sha\obj\Debug\Sha.pdb
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Sha\bin\Debug\Sha.dll
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Sha\bin\Debug\Sha.pdb
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Sha\obj\Debug\Sha.csprojAssemblyReference.cache
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Sha\obj\Debug\Sha.Sha.resources
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Sha\obj\Debug\Sha.csproj.GenerateResource.cache
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Sha\obj\Debug\Sha.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Sha\obj\Debug\Sha.dll
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Sha\obj\Debug\Sha.pdb

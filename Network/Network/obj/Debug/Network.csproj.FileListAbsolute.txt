@@ -39,3 +39,11 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\Network\
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\Network\obj\Debug\Network.csproj.GenerateResource.Cache
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\Network\obj\Debug\Network.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\Network\obj\Debug\Network.pdb
+C:\Users\admin\Documents\EucliwoodBox\Network\Network\bin\Debug\Network.dll
+C:\Users\admin\Documents\EucliwoodBox\Network\Network\bin\Debug\Network.pdb
+C:\Users\admin\Documents\EucliwoodBox\Network\Network\obj\Debug\Network.Network.resources
+C:\Users\admin\Documents\EucliwoodBox\Network\Network\obj\Debug\Network.csproj.GenerateResource.cache
+C:\Users\admin\Documents\EucliwoodBox\Network\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\Network\Network\obj\Debug\Network.dll
+C:\Users\admin\Documents\EucliwoodBox\Network\Network\obj\Debug\Network.pdb
+C:\Users\admin\Documents\EucliwoodBox\Network\Network\obj\Debug\Network.csprojAssemblyReference.cache

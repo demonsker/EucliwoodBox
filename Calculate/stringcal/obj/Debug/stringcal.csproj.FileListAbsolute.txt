@@ -25,3 +25,11 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\string
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\stringcal\obj\Debug\stringcal.csproj.GenerateResource.Cache
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\stringcal\obj\Debug\stringcal.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\stringcal\obj\Debug\stringcal.pdb
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringcal\bin\Debug\stringcal.dll
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringcal\bin\Debug\stringcal.pdb
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringcal\obj\Debug\stringcal.csprojAssemblyReference.cache
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringcal\obj\Debug\stringcal.Stringcal.resources
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringcal\obj\Debug\stringcal.csproj.GenerateResource.cache
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringcal\obj\Debug\stringcal.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringcal\obj\Debug\stringcal.dll
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringcal\obj\Debug\stringcal.pdb

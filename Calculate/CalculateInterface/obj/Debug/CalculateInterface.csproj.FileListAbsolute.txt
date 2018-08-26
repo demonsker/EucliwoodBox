@@ -3,3 +3,8 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\Calcul
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\CalculateInterface\obj\Debug\CalculateInterface.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\CalculateInterface\obj\Debug\CalculateInterface.pdb
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\CalculateInterface\obj\Debug\CalculateInterface.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\EucliwoodBox\Calculate\CalculateInterface\bin\Debug\CalculateInterface.dll
+C:\Users\admin\Documents\EucliwoodBox\Calculate\CalculateInterface\bin\Debug\CalculateInterface.pdb
+C:\Users\admin\Documents\EucliwoodBox\Calculate\CalculateInterface\obj\Debug\CalculateInterface.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\Calculate\CalculateInterface\obj\Debug\CalculateInterface.dll
+C:\Users\admin\Documents\EucliwoodBox\Calculate\CalculateInterface\obj\Debug\CalculateInterface.pdb

@@ -8,3 +8,8 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\CryptoInt
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\CryptoInterface\obj\Debug\CryptoInterface.csprojResolveAssemblyReference.cache
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\CryptoInterface\obj\Debug\CryptoInterface.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\CryptoInterface\obj\Debug\CryptoInterface.pdb
+C:\Users\admin\Documents\EucliwoodBox\Crypto\CryptoInterface\bin\Debug\CryptoInterface.dll
+C:\Users\admin\Documents\EucliwoodBox\Crypto\CryptoInterface\bin\Debug\CryptoInterface.pdb
+C:\Users\admin\Documents\EucliwoodBox\Crypto\CryptoInterface\obj\Debug\CryptoInterface.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\Crypto\CryptoInterface\obj\Debug\CryptoInterface.dll
+C:\Users\admin\Documents\EucliwoodBox\Crypto\CryptoInterface\obj\Debug\CryptoInterface.pdb

@@ -13,3 +13,11 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\Calcul
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\Calculate\obj\Debug\Calculate.pdb
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\Calculate\bin\Debug\stringoperation.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\Calculate\bin\Debug\stringoperation.pdb
+C:\Users\admin\Documents\EucliwoodBox\Calculate\Calculate\obj\Debug\Calculate.Calculate.resources
+C:\Users\admin\Documents\EucliwoodBox\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\admin\Documents\EucliwoodBox\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\Calculate\Calculate\bin\Debug\Calculate.dll
+C:\Users\admin\Documents\EucliwoodBox\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\admin\Documents\EucliwoodBox\Calculate\Calculate\obj\Debug\Calculate.dll
+C:\Users\admin\Documents\EucliwoodBox\Calculate\Calculate\obj\Debug\Calculate.pdb
+C:\Users\admin\Documents\EucliwoodBox\Calculate\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
