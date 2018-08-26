@@ -25,3 +25,11 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\Portchec
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\Portcheck\obj\Debug\Portcheck.csproj.GenerateResource.Cache
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\Portcheck\obj\Debug\Portcheck.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\Portcheck\obj\Debug\Portcheck.pdb
+C:\Users\admin\Documents\EucliwoodBox\Network\Portcheck\bin\Debug\Portcheck.dll
+C:\Users\admin\Documents\EucliwoodBox\Network\Portcheck\bin\Debug\Portcheck.pdb
+C:\Users\admin\Documents\EucliwoodBox\Network\Portcheck\obj\Debug\Portcheck.csprojAssemblyReference.cache
+C:\Users\admin\Documents\EucliwoodBox\Network\Portcheck\obj\Debug\Portcheck.Portcheck.resources
+C:\Users\admin\Documents\EucliwoodBox\Network\Portcheck\obj\Debug\Portcheck.csproj.GenerateResource.cache
+C:\Users\admin\Documents\EucliwoodBox\Network\Portcheck\obj\Debug\Portcheck.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\Network\Portcheck\obj\Debug\Portcheck.dll
+C:\Users\admin\Documents\EucliwoodBox\Network\Portcheck\obj\Debug\Portcheck.pdb

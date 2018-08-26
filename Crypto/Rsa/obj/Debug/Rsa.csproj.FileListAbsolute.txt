@@ -7,3 +7,11 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\Rsa\obj\D
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\Rsa\obj\Debug\Rsa.csproj.GenerateResource.Cache
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\Rsa\obj\Debug\Rsa.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\Rsa\obj\Debug\Rsa.pdb
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Rsa\bin\Debug\Rsa.dll
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Rsa\bin\Debug\Rsa.pdb
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Rsa\obj\Debug\Rsa.csprojAssemblyReference.cache
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Rsa\obj\Debug\Rsa.Rsa.resources
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Rsa\obj\Debug\Rsa.csproj.GenerateResource.cache
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Rsa\obj\Debug\Rsa.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Rsa\obj\Debug\Rsa.dll
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Rsa\obj\Debug\Rsa.pdb

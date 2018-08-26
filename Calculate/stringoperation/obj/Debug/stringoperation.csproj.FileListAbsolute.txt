@@ -7,3 +7,10 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\string
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\stringoperation\obj\Debug\stringoperation.Stringoperator.resources
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\stringoperation\bin\Debug\CalculateInterface.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Calculate\stringoperation\bin\Debug\CalculateInterface.pdb
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringoperation\bin\Debug\stringoperation.dll
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringoperation\bin\Debug\stringoperation.pdb
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringoperation\obj\Debug\stringoperation.Stringoperator.resources
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringoperation\obj\Debug\stringoperation.csproj.GenerateResource.cache
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringoperation\obj\Debug\stringoperation.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringoperation\obj\Debug\stringoperation.dll
+C:\Users\admin\Documents\EucliwoodBox\Calculate\stringoperation\obj\Debug\stringoperation.pdb

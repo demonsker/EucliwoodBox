@@ -67,6 +67,7 @@
     <ProjectReference Include="..\CalculateInterface\CalculateInterface.csproj">
       <Project>{a4312e97-3b00-47a8-998a-95d517a16472}</Project>
       <Name>CalculateInterface</Name>
+      <Private>False</Private>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

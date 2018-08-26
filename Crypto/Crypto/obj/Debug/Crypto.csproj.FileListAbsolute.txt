@@ -28,3 +28,11 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\Crypto\ob
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\Crypto\obj\Debug\Crypto.csproj.GenerateResource.Cache
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\Crypto\obj\Debug\Crypto.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Crypto\Crypto\obj\Debug\Crypto.pdb
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Crypto\bin\Debug\Crypto.dll
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Crypto\bin\Debug\Crypto.pdb
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Crypto\obj\Debug\Crypto.csprojAssemblyReference.cache
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Crypto\obj\Debug\Crypto.Crypto.resources
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Crypto\obj\Debug\Crypto.csproj.GenerateResource.cache
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Crypto\obj\Debug\Crypto.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Crypto\obj\Debug\Crypto.dll
+C:\Users\admin\Documents\EucliwoodBox\Crypto\Crypto\obj\Debug\Crypto.pdb

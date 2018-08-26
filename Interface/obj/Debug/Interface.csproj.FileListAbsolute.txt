@@ -8,3 +8,8 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Interface\bin\De
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Interface\obj\Debug\Interface.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Interface\obj\Debug\Interface.pdb
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\EucliwoodBox\Interface\bin\Debug\Interface.dll
+C:\Users\admin\Documents\EucliwoodBox\Interface\bin\Debug\Interface.pdb
+C:\Users\admin\Documents\EucliwoodBox\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\Interface\obj\Debug\Interface.dll
+C:\Users\admin\Documents\EucliwoodBox\Interface\obj\Debug\Interface.pdb

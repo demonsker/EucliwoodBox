@@ -68,6 +68,7 @@
     <ProjectReference Include="..\CryptoInterface\CryptoInterface.csproj">
       <Project>{ad5844d1-8d5b-41fd-91ac-44398a052f95}</Project>
       <Name>CryptoInterface</Name>
+      <Private>False</Private>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

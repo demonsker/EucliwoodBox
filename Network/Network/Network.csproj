@@ -31,6 +31,10 @@
     <DefineConstants>TRACE</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Interface">
+      <HintPath>..\..\Interface\bin\Debug\Interface.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Microsoft.CSharp">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
@@ -64,21 +68,20 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Interface\Interface.csproj">
-      <Project>{c87f4f9e-665f-4a82-a6fd-5c9dc098cca3}</Project>
-      <Name>Interface</Name>
-    </ProjectReference>
     <ProjectReference Include="..\NetworkInterface\NetworkInterface.csproj">
       <Project>{f89a8b72-0ca8-48ea-92f0-c9cadfe35aea}</Project>
       <Name>NetworkInterface</Name>
+      <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="..\Portcheck\Portcheck.csproj">
       <Project>{5d530d15-d5e1-4eb3-a456-538f4d5648c6}</Project>
       <Name>Portcheck</Name>
+      <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="..\PSEX\PSEX.csproj">
       <Project>{bd49b790-0ca2-4218-b546-75f9f80953c2}</Project>
       <Name>PSEX</Name>
+      <Private>False</Private>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

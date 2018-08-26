@@ -32,8 +32,13 @@
     <DefineConstants>TRACE</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Interface">
+      <HintPath>..\..\Interface\bin\Debug\Interface.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="MD5">
       <HintPath>..\MD5\bin\Debug\MD5.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
@@ -68,21 +73,20 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Interface\Interface.csproj">
-      <Project>{c87f4f9e-665f-4a82-a6fd-5c9dc098cca3}</Project>
-      <Name>Interface</Name>
-    </ProjectReference>
     <ProjectReference Include="..\CryptoInterface\CryptoInterface.csproj">
       <Project>{ad5844d1-8d5b-41fd-91ac-44398a052f95}</Project>
       <Name>CryptoInterface</Name>
+      <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="..\Rsa\Rsa.csproj">
       <Project>{a1128cd8-7538-4dc5-b142-8554d4fd30e1}</Project>
       <Name>Rsa</Name>
+      <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="..\Sha\Sha.csproj">
       <Project>{28405fe3-3f42-4dd3-b56c-74f496ebcb5a}</Project>
       <Name>Sha</Name>
+      <Private>False</Private>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

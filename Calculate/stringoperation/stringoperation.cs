@@ -20,7 +20,9 @@ namespace stringoperation
 	/// </summary>
 	public partial class Stringoperator : UserControl
 	{
-		public Stringoperator()
+        #region Constructor
+
+        public Stringoperator()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
@@ -30,9 +32,15 @@ namespace stringoperation
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
-		
-		void setString(string message) { stringbox.Text = message; }
+
+        #endregion
+
+        #region Property
+
+        void setString(string message) { stringbox.Text = message; }
+
 		void setIndex(int index) { indexval.Text = index.ToString(); }
+
 		string getString(){ return stringbox.Text; }
 		
 		string getOriginal()
@@ -41,29 +49,37 @@ namespace stringoperation
 				return System.Environment.NewLine;
 			return originalbox.Text;
 		}
+
 		string getNewText()
 		{ 
 			if(newlinenewtextcheck.Checked)
 				return System.Environment.NewLine;
 			return newtextbox.Text;
 		}
+
 		string getAfterText()
 		{
 			if(newlineoriginalcheck.Checked)
 				return System.Environment.NewLine;
 			return aftertextbox.Text;
 		}
+
 		string getInsertText()
 		{ 
 			if(newlinenewtextcheck.Checked)
 				return System.Environment.NewLine;	
 			return insertbox.Text;
 		}
+
 		string getSearchText(){ return searchbox.Text; }
 		
 		int getNumberCharNewLine(){ return Int32.Parse(numberofcharacternewline.Text);}
-		
-		void DelspacebuttonClick(object sender, EventArgs e)
+
+        #endregion
+
+        #region Event Functions
+
+        void DelspacebuttonClick(object sender, EventArgs e)
 		{
 			string message = getString();
 
@@ -77,6 +93,7 @@ namespace stringoperation
 				
 			setString(message);
 		}
+
 		void InsteadbuttonClick(object sender, EventArgs e)
 		{
 			String message = getString();
@@ -87,6 +104,7 @@ namespace stringoperation
 			
 			setString(message);
 		}
+
 		void InsertbuttonClick(object sender, EventArgs e)
 		{
 			String message = getString();
@@ -99,6 +117,7 @@ namespace stringoperation
 			
 			setString(message);			
 		}
+
 		void GetindexbuttonClick(object sender, EventArgs e)
 		{
 			String message = getString();
@@ -107,6 +126,7 @@ namespace stringoperation
 			int index = message.IndexOf(searchText);
 			setIndex(index);
 		}
+
 		void AddnumberbuttonClick(object sender, EventArgs e)
 		{
 			String message = getString();
@@ -138,6 +158,7 @@ namespace stringoperation
 			
 			setString(message);	
 		}
+
 		void DelnewlinebuttonClick(object sender, EventArgs e)
 		{
 			String message = getString();
@@ -145,6 +166,7 @@ namespace stringoperation
 			message = message.Replace('\n', ' ');
 			setString(message);
 		}
+
 		void GetnumberbuttonClick(object sender, EventArgs e)
 		{
 			String message = getString();
@@ -158,26 +180,39 @@ namespace stringoperation
 			}
 			setString(message);
 		}
+
 		void AddnewlinebuttonClick(object sender, EventArgs e)
 		{
 			String message = getString();
 			int num = getNumberCharNewLine();
 			
+            if(num <= 0)
+            {
+                return;
+            }
+
 			for(int i = num; i < message.Length; i+=(num+2))
 				message = message.Insert(i, System.Environment.NewLine);
 			
 			setString(message);
 		}
+
 		void AddspacebuttonClick(object sender, EventArgs e)
 		{
 			String message = getString();
 			int num = getNumberCharNewLine();
-			
-			for(int i = num; i < message.Length; i+=(num+1))
+
+            if (num <= 0)
+            {
+                return;
+            }
+
+            for (int i = num; i < message.Length; i+=(num+1))
 				message = message.Insert(i, " ");
 			
 			setString(message);
 		}
-			
-	}
+
+        #endregion
+    }
 }

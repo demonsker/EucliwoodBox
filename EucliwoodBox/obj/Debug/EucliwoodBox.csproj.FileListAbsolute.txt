@@ -60,3 +60,41 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\EucliwoodBox\obj
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\EucliwoodBox\obj\Debug\EucliwoodBox.pdb
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\EucliwoodBox\bin\Debug\stringoperation.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\EucliwoodBox\bin\Debug\stringoperation.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\EucliwoodBox.exe.config
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\EucliwoodBox.exe
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\EucliwoodBox.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Calculate.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\CalculateInterface.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Crypto.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Interface.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\MD5.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Network.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\NetworkInterface.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Portcheck.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\PSEX.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Rsa.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Sha.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\stringcal.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\stringoperation.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Interface.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Calculate.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\CalculateInterface.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Crypto.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\MD5.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Network.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\NetworkInterface.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Portcheck.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\PSEX.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Rsa.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\Sha.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\stringcal.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\stringoperation.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\obj\Debug\EucliwoodBox.csprojAssemblyReference.cache
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\obj\Debug\EucliwoodBox.MainForm.resources
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\obj\Debug\EucliwoodBox.csproj.GenerateResource.cache
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\obj\Debug\EucliwoodBox.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\obj\Debug\EucliwoodBox.csproj.CopyComplete
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\obj\Debug\EucliwoodBox.exe
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\obj\Debug\EucliwoodBox.pdb
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\CryptoInterface.dll
+C:\Users\admin\Documents\EucliwoodBox\EucliwoodBox\bin\Debug\CryptoInterface.pdb

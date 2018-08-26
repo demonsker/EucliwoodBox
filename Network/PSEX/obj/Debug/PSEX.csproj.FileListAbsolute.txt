@@ -23,3 +23,11 @@ C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\PSEX\obj
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\PSEX\obj\Debug\PSEX.csproj.GenerateResource.Cache
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\PSEX\obj\Debug\PSEX.dll
 C:\Users\Eucliwood\Documents\SharpDevelop Projects\EucliwoodBox\Network\PSEX\obj\Debug\PSEX.pdb
+C:\Users\admin\Documents\EucliwoodBox\Network\PSEX\bin\Debug\PSEX.dll
+C:\Users\admin\Documents\EucliwoodBox\Network\PSEX\bin\Debug\PSEX.pdb
+C:\Users\admin\Documents\EucliwoodBox\Network\PSEX\obj\Debug\PSEX.csprojAssemblyReference.cache
+C:\Users\admin\Documents\EucliwoodBox\Network\PSEX\obj\Debug\PSEX.PSC.resources
+C:\Users\admin\Documents\EucliwoodBox\Network\PSEX\obj\Debug\PSEX.csproj.GenerateResource.cache
+C:\Users\admin\Documents\EucliwoodBox\Network\PSEX\obj\Debug\PSEX.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\EucliwoodBox\Network\PSEX\obj\Debug\PSEX.dll
+C:\Users\admin\Documents\EucliwoodBox\Network\PSEX\obj\Debug\PSEX.pdb
